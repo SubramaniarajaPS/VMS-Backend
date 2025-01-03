@@ -1,4 +1,4 @@
 package com.java.vms.dashboard.controller;
 
-public class dashboardController {
+public class DashboardController {
 }
